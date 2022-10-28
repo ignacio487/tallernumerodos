@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a8ef34f-5519-4457-a5d2-bac7c0699370" name="Changes" comment="hola">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Automovil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chasis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Correo_electronico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Gestor_Personal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Motor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/choco.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="3a8ef34f-5519-4457-a5d2-bac7c0699370" name="Changes" comment="holas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666985961793</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="holas">
+      <created>1666994086528</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666994086528</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hola" />
-    <option name="LAST_COMMIT_MESSAGE" value="hola" />
+    <MESSAGE value="holas" />
+    <option name="LAST_COMMIT_MESSAGE" value="holas" />
   </component>
 </project>
